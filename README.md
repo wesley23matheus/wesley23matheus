@@ -1,4 +1,8 @@
-<div align-"center">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
+
+
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=black&center=true&vCenter=true&width=1000&lines=Ola;Tenho+43+anos;Sou+de+Goiânia,+GO;Seja+Bem+Vindo+:%29)](https://git.io/typing-svg)
+ <div align="center"> 
 <img src="https://github.com/wesley23matheus/Wesleymoreira2/assets/130401734/161b9662-2deb-4941-ae30-9c070b82d7c1" width="250px" height="250px"/>
 </div>
 <h2>Oi, sou Wesley Moreira</h2>
@@ -12,6 +16,8 @@
   <img align="center" alt="WESLEY-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 <br>
   <h5>.🤾‍♂️ Meus Hobbies - momentos com a minha familia, leitura, estudar, voley e jiu-jitsu. </h5> 
+ 
+
   
   ## Contatos:
 
