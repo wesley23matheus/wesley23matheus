@@ -1,16 +1,24 @@
-### Hi there 👋
+<div align-"center">
+<img src="https://github.com/wesley23matheus/Wesleymoreira2/assets/130401734/161b9662-2deb-4941-ae30-9c070b82d7c1" width="250px" height="250px"/>
+</div>
+<h2>Oi, sou Wesley Moreira</h2>
 
-<!--
-**wesley23matheus/wesley23matheus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h5>.🤵 Sou técnico em edificações em transição de carreira para a areá da tecnologia.</h5>
+<h5>.👨‍🎓 Minha experiência profissional está toda voltada para areá da construção civil, tendo atuado como gestor em diversas construtoras, bem como coordenado importantes obras de manutenção em diversas regiões do Brasil.</h5>
+<h5>.🦾 Meu objetivo é transição de carreira para areá da técnologia da informação.Atualmente sou estudande do Programa Starter Full Stack Web tenho conhecimento em Html e CSS. </h5>
 
-Here are some ideas to get you started:
+<div style="display: inline_block"><br>
+  <img align="center" alt="WESLEY-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="WESLEY-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<br>
+  <h5>.🤾‍♂️ Meus Hobbies - momentos com a minha familia, leitura, estudar, voley e jiu-jitsu. </h5> 
+  
+  ## Contatos:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+
+
+<a href = "wesleynui40@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.linkedin.com/in/wesley-moreira-técnico-de-edificações" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>   
+</div>
+ 
