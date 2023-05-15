@@ -5,7 +5,7 @@
  <div align="center"> 
 <img src="https://github.com/wesley23matheus/Wesleymoreira2/assets/130401734/161b9662-2deb-4941-ae30-9c070b82d7c1" width="250px" height="250px"/>
 </div>
-<h2>Oi, sou Wesley Moreira</h2>
+<h1>Oi, sou Wesley Moreira</h1>
 
 <h5>.🤵 Sou técnico em edificações em transição de carreira para a areá da tecnologia.</h5>
 <h5>.👨‍🎓 Minha experiência profissional está toda voltada para areá da construção civil, tendo atuado como gestor em diversas construtoras, bem como coordenado importantes obras de manutenção em diversas regiões do Brasil.</h5>
